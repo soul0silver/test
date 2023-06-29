@@ -303,6 +303,8 @@ main .slide-show {
     color: rgba(0, 0, 0, 0.906);
     display: block;
     width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 .box-item-sm .new-content {
@@ -311,6 +313,8 @@ main .slide-show {
     display: block;
     width: 200px;
     font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 main .for-product {
